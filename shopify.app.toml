@@ -3,7 +3,7 @@
 client_id = "024a74d2371b7b7c90490da4582eb8c1"
 name = "sopifixstore"
 handle = "sopifixstore"
-application_url = "https://gregory-dr-representing-university.trycloudflare.com"
+application_url = "https://phil-proceed-merchandise-anger.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://gregory-dr-representing-university.trycloudflare.com/auth/callback",
-  "https://gregory-dr-representing-university.trycloudflare.com/auth/shopify/callback",
-  "https://gregory-dr-representing-university.trycloudflare.com/api/auth/callback"
+  "https://phil-proceed-merchandise-anger.trycloudflare.com/auth/callback",
+  "https://phil-proceed-merchandise-anger.trycloudflare.com/auth/shopify/callback",
+  "https://phil-proceed-merchandise-anger.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
