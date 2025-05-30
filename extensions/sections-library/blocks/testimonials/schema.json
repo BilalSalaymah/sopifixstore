@@ -1,0 +1,27 @@
+{
+    "name": "Testimonials",
+    "settings": [
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Koptekst",
+        "default": "Wat klanten zeggen"
+      },
+      {
+        "type": "list",
+        "id": "quotes",
+        "label": "Quotes",
+        "default": [
+          { "author": "Naam", "quote": "Jouw quote hier" }
+        ]
+      },
+      {
+        "type": "number",
+        "id": "interval",
+        "label": "Interval (sec)",
+        "default": 5
+      }
+    ],
+    "blocks": [],
+    "presets": [{ "name": "Testimonials" }]
+  }
